@@ -45,17 +45,17 @@
       
         <tags>
             
-            <tag> 跨平台 </tag>
-            
-            <tag> C++、Python </tag>
-            
             <tag> 轻量级虚拟机实现 </tag>
             
             <tag> COM组件 </tag>
             
+            <tag> 跨平台 </tag>
+            
             <tag> Linux/Windows核心编程 </tag>
             
             <tag> 进程通信 </tag>
+            
+            <tag> C++、Python </tag>
             
         </tags>
       
@@ -74,9 +74,9 @@
       
         <tags>
             
-            <tag> Qt </tag>
-            
             <tag> C++、Python </tag>
+            
+            <tag> Qt </tag>
             
             <tag> 图像处理 </tag>
             
@@ -107,17 +107,17 @@
       
         <tags>
             
+            <tag> 跨平台 </tag>
+            
+            <tag> C++、Python </tag>
+            
             <tag> 标准正态分布 </tag>
             
             <tag> 标准分计算转换算法 </tag>
             
-            <tag> 跨平台 </tag>
-            
             <tag> Qt </tag>
             
             <tag> Sqlite </tag>
-            
-            <tag> C++、Python </tag>
             
         </tags>
       
@@ -136,11 +136,11 @@
       
         <tags>
             
-            <tag> Qt </tag>
+            <tag> 进程通信 </tag>
             
             <tag> C++、Python </tag>
             
-            <tag> 进程通信 </tag>
+            <tag> Qt </tag>
             
             <tag> OpenCV图像处理 </tag>
             
@@ -186,7 +186,7 @@
       <link href="/2020/05/02/ji-yu-raspberry-pi-de-zhi-neng-mo-jing/"/>
       <url>/2020/05/02/ji-yu-raspberry-pi-de-zhi-neng-mo-jing/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>博主正在加班加点编写中…</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>博主正在加班加点编写中…<br><a href="http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=XKJJ201706017" target="_blank" rel="noopener"><u><strong>[点击查看相关研究成果学术论文]</u></strong></a></p></blockquote>]]></content>
       
       
       
@@ -250,11 +250,11 @@
             
             <tag> 跨平台 </tag>
             
-            <tag> Qt </tag>
+            <tag> Linux/Windows核心编程 </tag>
             
             <tag> C++、Python </tag>
             
-            <tag> Linux/Windows核心编程 </tag>
+            <tag> Qt </tag>
             
             <tag> 操作系统事件监控 </tag>
             
