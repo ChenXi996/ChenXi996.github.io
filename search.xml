@@ -45,17 +45,17 @@
       
         <tags>
             
-            <tag> 跨平台 </tag>
-            
-            <tag> C++、Python </tag>
-            
             <tag> 轻量级虚拟机实现 </tag>
             
             <tag> COM组件 </tag>
             
+            <tag> 跨平台 </tag>
+            
             <tag> Linux/Windows核心编程 </tag>
             
             <tag> 进程通信 </tag>
+            
+            <tag> C++、Python </tag>
             
         </tags>
       
@@ -74,9 +74,9 @@
       
         <tags>
             
-            <tag> Qt </tag>
-            
             <tag> C++、Python </tag>
+            
+            <tag> Qt </tag>
             
             <tag> 图像处理 </tag>
             
@@ -107,17 +107,17 @@
       
         <tags>
             
-            <tag> Qt </tag>
-            
             <tag> 跨平台 </tag>
             
-            <tag> Sqlite </tag>
+            <tag> C++、Python </tag>
             
             <tag> 标准正态分布 </tag>
             
             <tag> 标准分计算转换算法 </tag>
             
-            <tag> C++、Python </tag>
+            <tag> Qt </tag>
+            
+            <tag> Sqlite </tag>
             
         </tags>
       
@@ -136,11 +136,11 @@
       
         <tags>
             
-            <tag> Qt </tag>
+            <tag> 进程通信 </tag>
             
             <tag> C++、Python </tag>
             
-            <tag> 进程通信 </tag>
+            <tag> Qt </tag>
             
             <tag> OpenCV图像处理 </tag>
             
@@ -215,19 +215,19 @@
       <link href="/2020/05/02/ji-yu-qt-de-kua-ping-tai-tian-qi-ruan-jian/"/>
       <url>/2020/05/02/ji-yu-qt-de-kua-ping-tai-tian-qi-ruan-jian/</url>
       
-        <content type="html"><![CDATA[<p><img src="index.png" alt="3D主页索引图"></p><blockquote><p>为用户提供一款自动隐藏于桌面任务栏，并且含天气提醒、时间任务提醒等生活便捷功能的跨平台软件，同时提供简单的WEB后台广告管理平台，方便广告操作推送等。</p></blockquote><h5 id="客户端主要功能点介绍"><a href="#客户端主要功能点介绍" class="headerlink" title="客户端主要功能点介绍"></a>客户端主要功能点介绍</h5><ol><li><p>首页</p><ul><li>此应用软件隐藏于电脑桌面的右下角，当鼠标移动至右下角区域时，应用软件则会自动显示主窗口。主窗口包括显示时钟、日历、天气、小工具、更换皮肤外观以及设置等功能。<br><img src="home.png" alt="主页"></li></ul></li><li><p>时钟</p><ul><li>点击首页主窗口的时钟区域，则会显示时钟功能的子窗口，子窗口包括世界时钟、秒表、倒计时等功能。<br><img src="clock1.png" alt="时钟展示1"><br><img src="clock2.png" alt="时钟展示2"><br><img src="clock3.png" alt="时钟展示3"></li></ul></li><li><p>日历</p><ul><li>点击首页主窗口的日历区域，则会显示日历功能的子窗口，子窗口包括查看阳历、农历、二十四节气等功能。<br><img src="calendar.png" alt="日历展示"></li></ul></li><li><p>天气</p><ul><li>点击首页主窗口的天气区域，则会显示天气功能的子窗口，子窗口包括查看今日天气、自定义城市天气、生活指数等功能。<br><img src="weather1.png" alt="天气展示1"><br><img src="weather2.png" alt="天气展示2"><br><img src="weather3.png" alt="天气展示3"></li></ul></li><li><p>小工具</p><ul><li>您可点击工具箱可跳转至在线小工具链接。<br><img src="tools.png" alt="小工具"></li></ul></li><li><p>更改皮肤外观</p><ul><li>点击首页主窗口的更换外观按钮，则会显示更换软件皮肤外观的子窗口，子窗口提供多种皮肤图片以及颜色等。<br><img src="skin.png" alt="皮肤外观设置"></li></ul></li><li><p>设置</p><ul><li>在首页主窗口区域右击，即可看到设置菜单，设置菜单里可更新天气、设置开机自启、接收广告、检查更新以及退出应用软件等功能。<br><img src="setting.png" alt="设置"></li></ul></li></ol><h5 id="服务端主要功能点介绍"><a href="#服务端主要功能点介绍" class="headerlink" title="服务端主要功能点介绍"></a>服务端主要功能点介绍</h5><p><img src="manager_login.png" alt="登录"><br><img src="manager_advertisement1.png" alt="添加广告推送"><br><img src="manager_advertisement2.png" alt="编辑删除广告"><br><img src="manager_advertisement3.png" alt="设置广告推送时间"><br><img src="manager_statistic.png" alt="统计用户数量"></p><h5 id="跨平台天气软件下载链接："><a href="#跨平台天气软件下载链接：" class="headerlink" title="跨平台天气软件下载链接："></a>跨平台天气软件下载链接：</h5><ul><li>Windows版本（百度云分享链接密码: 9atq）<br><a href="https://pan.baidu.com/s/1o8uuj2q" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Linux版本<br><a href="ttp://pan.baidu.com/s/1eROwlcm"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Mac版本<br><a href="http://pan.baidu.com/s/1i53779r" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li></ul>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/index.png" alt="3D主页索引图"></p><blockquote><p>为用户提供一款自动隐藏于桌面任务栏，并且含天气提醒、时间任务提醒等生活便捷功能的跨平台软件，同时提供简单的WEB后台广告管理平台，方便广告操作推送等。</p></blockquote><h5 id="客户端主要功能点介绍"><a href="#客户端主要功能点介绍" class="headerlink" title="客户端主要功能点介绍"></a>客户端主要功能点介绍</h5><ol><li><p>首页</p><ul><li>此应用软件隐藏于电脑桌面的右下角，当鼠标移动至右下角区域时，应用软件则会自动显示主窗口。主窗口包括显示时钟、日历、天气、小工具、更换皮肤外观以及设置等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/home.png" alt="主页"></li></ul></li><li><p>时钟</p><ul><li>点击首页主窗口的时钟区域，则会显示时钟功能的子窗口，子窗口包括世界时钟、秒表、倒计时等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/clock1.png" alt="时钟展示1"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/clock2.png" alt="时钟展示2"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/clock3.png" alt="时钟展示3"></li></ul></li><li><p>日历</p><ul><li>点击首页主窗口的日历区域，则会显示日历功能的子窗口，子窗口包括查看阳历、农历、二十四节气等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/calendar.png" alt="日历展示"></li></ul></li><li><p>天气</p><ul><li>点击首页主窗口的天气区域，则会显示天气功能的子窗口，子窗口包括查看今日天气、自定义城市天气、生活指数等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/weather1.png" alt="天气展示1"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/weather2.png" alt="天气展示2"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/weather3.png" alt="天气展示3"></li></ul></li><li><p>小工具</p><ul><li>您可点击工具箱可跳转至在线小工具链接。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/tools.png" alt="小工具"></li></ul></li><li><p>更改皮肤外观</p><ul><li>点击首页主窗口的更换外观按钮，则会显示更换软件皮肤外观的子窗口，子窗口提供多种皮肤图片以及颜色等。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/skin.png" alt="皮肤外观设置"></li></ul></li><li><p>设置</p><ul><li>在首页主窗口区域右击，即可看到设置菜单，设置菜单里可更新天气、设置开机自启、接收广告、检查更新以及退出应用软件等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/setting.png" alt="设置"></li></ul></li></ol><h5 id="服务端主要功能点介绍"><a href="#服务端主要功能点介绍" class="headerlink" title="服务端主要功能点介绍"></a>服务端主要功能点介绍</h5><p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_login.png" alt="登录"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_advertisement1.png" alt="添加广告推送"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_advertisement2.png" alt="编辑删除广告"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_advertisement3.png" alt="设置广告推送时间"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_statistic.png" alt="统计用户数量"></p><h5 id="跨平台天气软件下载链接："><a href="#跨平台天气软件下载链接：" class="headerlink" title="跨平台天气软件下载链接："></a>跨平台天气软件下载链接：</h5><ul><li>Windows版本（百度云分享链接密码: 9atq）<br><a href="https://pan.baidu.com/s/1o8uuj2q" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Linux版本<br><a href="ttp://pan.baidu.com/s/1eROwlcm"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Mac版本<br><a href="http://pan.baidu.com/s/1i53779r" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li></ul>]]></content>
       
       
       
         <tags>
             
-            <tag> Qt </tag>
-            
             <tag> 跨平台 </tag>
             
-            <tag> DLL注入 </tag>
+            <tag> Qt </tag>
             
             <tag> Sqlite </tag>
+            
+            <tag> DLL注入 </tag>
             
             <tag> C++、PHP </tag>
             
@@ -242,19 +242,19 @@
       <link href="/2020/05/01/kua-ping-tai-huan-chuang-ji-shi-qi-xi-tong/"/>
       <url>/2020/05/01/kua-ping-tai-huan-chuang-ji-shi-qi-xi-tong/</url>
       
-        <content type="html"><![CDATA[<p><img src="index.jpg" alt="3D主页索引图"></p><blockquote><p>跨平台环创计时器主要用于监控工作室人员使用电脑的时间，并且同时附加公告提示、时间统计、番茄计时器以及更换外观等功能。</p></blockquote><h5 id="主要功能点介绍"><a href="#主要功能点介绍" class="headerlink" title="主要功能点介绍"></a>主要功能点介绍</h5><ol><li><p>首页</p><ul><li>以动态圆形进度条和数字时钟实时显示您在工作室内的在线时间，并且会自动监控您当前是否在工作室内，若在工作室内且处于学习、工作状态则自动计时并且更新您的在线时间至服务器，否则，则停止计时。<br><img src="home.jpg" alt="主页"><br><img src="login.jpg" alt="登录"><br><img src="register.jpg" alt="注册"><br><img src="modify_personal_info.jpg" alt="修改个人资料"></li></ul></li><li><p>公告</p><ul><li>用户可编辑文字公告，且所有用户都能看到公告，以提醒所有成员近期的相关任务及注意事项等。<br><img src="notice1.jpg" alt="公告展示1"><br><img src="notice2.jpg" alt="公告展示2"><br><img src="create_notice.jpg" alt="新建公告"></li></ul></li><li><p>统计</p><ul><li>以折线图的形式直观的向您展示您一周在工作室内的在线时间，好让您通过了解近期时间的安排情况来合理调整下一周的时间安排情况。<br><img src="statistics.jpg" alt="统计图展示"></li></ul></li><li><p>查询</p><ul><li>可查询工作室内所有成员近两周的在线总时间及达标情况，也可间接了解自己的在线时间排名情况。<br><img src="query.jpg" alt="查询"></li></ul></li><li><p>设置</p><ul><li>您可设置是否开机自启动，开启桌面插件以及更换主题颜色等。<br><img src="setting.jpg" alt="设置"></li></ul></li><li><p>系统托盘<br><img src="systemtray1.jpg" alt="系统托盘展示1"><br><img src="systemtray2.jpg" alt="系统托盘展示2"></p></li><li><p>桌面插件</p><ul><li>具有番茄计时器的功能，可让你更合理、更专注的管理您的时间。 </li><li>普通状态下可点击更新当前在线时间至服务器，番茄计时器状态下可使用番茄工作法管理您的时间。<br><img src="desktop_widget1.jpg" alt="桌面插件展示1"><br><img src="desktop_widget2.jpg" alt="桌面插件展示2"><br><img src="desktop_widget3.jpg" alt="桌面插件展示3"><br><img src="desktop_widget4.jpg" alt="桌面插件展示4"></li></ul></li><li><p>关于<br><img src="about.jpg" alt="关于"></p></li></ol><h5 id="新版环创计时器开发情况简介"><a href="#新版环创计时器开发情况简介" class="headerlink" title="新版环创计时器开发情况简介"></a>新版环创计时器开发情况简介</h5><ul><li>由于之前旧版本计时器是基于 flash + actionscrip 而开发的，功能少，难以扩展，且无法解决跨平台运行问题，有时候出现无法登陆更新时间等众多兼容性问题，故急需全新开发计时器。</li><li>当前新版计时器是基于 Qt + C++ 而开发，有windows版本、linux版本以及mac版本等。运行更快，更稳定。UI界面全新升级，并且增加用户自定义头像、桌面插件以及更换主题颜色等功能。</li></ul><h5 id="环创计时器下载链接："><a href="#环创计时器下载链接：" class="headerlink" title="环创计时器下载链接："></a>环创计时器下载链接：</h5><ul><li>Windows版本<br><a href="http://pan.baidu.com/s/1nvEUKvZ" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Linux版本<br><a href="http://pan.baidu.com/s/1eROwlcm" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Mac版本<br><a href="http://pan.baidu.com/s/1i53779r" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li></ul>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/index.jpg" alt="3D主页索引图"></p><blockquote><p>跨平台环创计时器主要用于监控工作室人员使用电脑的时间，并且同时附加公告提示、时间统计、番茄计时器以及更换外观等功能。</p></blockquote><h5 id="主要功能点介绍"><a href="#主要功能点介绍" class="headerlink" title="主要功能点介绍"></a>主要功能点介绍</h5><ol><li><p>首页</p><ul><li>以动态圆形进度条和数字时钟实时显示您在工作室内的在线时间，并且会自动监控您当前是否在工作室内，若在工作室内且处于学习、工作状态则自动计时并且更新您的在线时间至服务器，否则，则停止计时。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/home.jpg" alt="主页"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/login.jpg" alt="登录"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/register.jpg" alt="注册"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/modify_personal_info.jpg" alt="修改个人资料"></li></ul></li><li><p>公告</p><ul><li>用户可编辑文字公告，且所有用户都能看到公告，以提醒所有成员近期的相关任务及注意事项等。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/notice1.jpg" alt="公告展示1"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/notice2.jpg" alt="公告展示2"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/create_notice.jpg" alt="新建公告"></li></ul></li><li><p>统计</p><ul><li>以折线图的形式直观的向您展示您一周在工作室内的在线时间，好让您通过了解近期时间的安排情况来合理调整下一周的时间安排情况。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/statistics.jpg" alt="统计图展示"></li></ul></li><li><p>查询</p><ul><li>可查询工作室内所有成员近两周的在线总时间及达标情况，也可间接了解自己的在线时间排名情况。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/query.jpg" alt="查询"></li></ul></li><li><p>设置</p><ul><li>您可设置是否开机自启动，开启桌面插件以及更换主题颜色等。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/setting.jpg" alt="设置"></li></ul></li><li><p>系统托盘<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/systemtray1.jpg" alt="系统托盘展示1"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/systemtray2.jpg" alt="系统托盘展示2"></p></li><li><p>桌面插件</p><ul><li>具有番茄计时器的功能，可让你更合理、更专注的管理您的时间。 </li><li>普通状态下可点击更新当前在线时间至服务器，番茄计时器状态下可使用番茄工作法管理您的时间。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/desktop_widget1.jpg" alt="桌面插件展示1"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/desktop_widget2.jpg" alt="桌面插件展示2"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/desktop_widget3.jpg" alt="桌面插件展示3"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/desktop_widget4.jpg" alt="桌面插件展示4"></li></ul></li><li><p>关于<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/hc_timer/about.jpg" alt="关于"></p></li></ol><h5 id="新版环创计时器开发情况简介"><a href="#新版环创计时器开发情况简介" class="headerlink" title="新版环创计时器开发情况简介"></a>新版环创计时器开发情况简介</h5><ul><li>由于之前旧版本计时器是基于 flash + actionscrip 而开发的，功能少，难以扩展，且无法解决跨平台运行问题，有时候出现无法登陆更新时间等众多兼容性问题，故急需全新开发计时器。</li><li>当前新版计时器是基于 Qt + C++ 而开发，有windows版本、linux版本以及mac版本等。运行更快，更稳定。UI界面全新升级，并且增加用户自定义头像、桌面插件以及更换主题颜色等功能。</li></ul><h5 id="环创计时器下载链接："><a href="#环创计时器下载链接：" class="headerlink" title="环创计时器下载链接："></a>环创计时器下载链接：</h5><ul><li>Windows版本<br><a href="http://pan.baidu.com/s/1nvEUKvZ" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Linux版本<br><a href="http://pan.baidu.com/s/1eROwlcm" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Mac版本<br><a href="http://pan.baidu.com/s/1i53779r" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li></ul>]]></content>
       
       
       
         <tags>
             
-            <tag> Qt </tag>
-            
             <tag> 跨平台 </tag>
+            
+            <tag> Linux/Windows核心编程 </tag>
             
             <tag> C++、Python </tag>
             
-            <tag> Linux/Windows核心编程 </tag>
+            <tag> Qt </tag>
             
             <tag> 操作系统事件监控 </tag>
             
