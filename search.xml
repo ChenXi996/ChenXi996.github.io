@@ -16,9 +16,9 @@
             
             <tag> C++、Python </tag>
             
-            <tag> 图像处理 </tag>
-            
             <tag> OpenCV </tag>
+            
+            <tag> 图像处理 </tag>
             
             <tag> 模式识别 </tag>
             
@@ -45,17 +45,17 @@
       
         <tags>
             
-            <tag> 跨平台 </tag>
-            
-            <tag> C++、Python </tag>
-            
             <tag> 轻量级虚拟机实现 </tag>
             
             <tag> COM组件 </tag>
             
+            <tag> 跨平台 </tag>
+            
             <tag> Linux/Windows核心编程 </tag>
             
             <tag> 进程通信 </tag>
+            
+            <tag> C++、Python </tag>
             
         </tags>
       
@@ -74,9 +74,9 @@
       
         <tags>
             
-            <tag> Qt </tag>
-            
             <tag> C++、Python </tag>
+            
+            <tag> Qt </tag>
             
             <tag> 图像处理 </tag>
             
@@ -101,23 +101,23 @@
       <link href="/2020/05/09/xx-sheng-gao-kao-zong-he-gai-ge-zhao-sheng-lu-qu-pei-tao-xi-tong-jian-she-xiang-mu/"/>
       <url>/2020/05/09/xx-sheng-gao-kao-zong-he-gai-ge-zhao-sheng-lu-qu-pei-tao-xi-tong-jian-she-xiang-mu/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>教育考试考务综合信息管理平台，适应新高考改革，新增标准分转换、高考志愿填报辅助等7个子系统，同时对XX省已有的高考报名、考生服务等8个旧子系统进行升级，其中核心子系统标准分转换系统服务于XX省XX万考生的最终成绩转换，影响深远。<br>以下只单独介绍一个子系统</p></blockquote><h2 id="标准分转换系统"><a href="#标准分转换系统" class="headerlink" title="标准分转换系统"></a>标准分转换系统</h2><p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/index.png" alt="主页"></p><blockquote><p>本系统满足新高考模式下的成绩标准分转换要求，能更好、更科学地解释分数的含义，进行分数的折算、组合，实现分数的等值化、可衡量化。</p></blockquote><h5 id="主要功能点介绍"><a href="#主要功能点介绍" class="headerlink" title="主要功能点介绍"></a>主要功能点介绍</h5><ol><li><p>首页</p><ul><li>提供新建项目、选择项目、科目码表、默认参数等高频功能快捷入口，同时展示当前项目关键信息（科目名称、类型、权重、考生人数等）。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/home.png" alt="主页"></li></ul></li><li><p>项目</p><ul><li>支持新建、删除、编辑项目等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/new_project.png" alt="新建项目"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/import_data.png" alt="导入数据"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/manage_project.png" alt="管理项目"></li></ul></li><li><p>对照表</p><ul><li>支持根据相关配置信息，生成查看、打印常模量表等。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/contract_sheet.png" alt="对照表"></li></ul></li><li><p>成绩</p><ul><li>支持标准分成绩生成、查询、数据导出等。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/query_score.png" alt="成绩查询"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/generate_score.png" alt="标准分生成"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/export_data.png" alt="成绩导出"></li></ul></li><li><p>设置</p><ul><li>支持相关参数配置。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/setting.png" alt="设置"></li></ul></li></ol>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>教育考试考务综合信息管理平台，适应新高考改革，新增标准分转换、高考志愿填报辅助等7个子系统，同时对XX省已有的高考报名、考生服务等8个旧子系统进行升级，其中核心子系统标准分转换系统服务于XX省XX万考生的最终成绩转换，影响深远。<br>以下只单独介绍一个子系统</p></blockquote><h2 id="标准分转换系统"><a href="#标准分转换系统" class="headerlink" title="标准分转换系统"></a>标准分转换系统</h2><p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/index.jpg" alt="主页"></p><blockquote><p>本系统满足新高考模式下的成绩标准分转换要求，能更好、更科学地解释分数的含义，进行分数的折算、组合，实现分数的等值化、可衡量化。</p></blockquote><h5 id="主要功能点介绍"><a href="#主要功能点介绍" class="headerlink" title="主要功能点介绍"></a>主要功能点介绍</h5><ol><li><p>首页</p><ul><li>提供新建项目、选择项目、科目码表、默认参数等高频功能快捷入口，同时展示当前项目关键信息（科目名称、类型、权重、考生人数等）。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/home.jpg" alt="主页"></li></ul></li><li><p>项目</p><ul><li>支持新建、删除、编辑项目等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/new_project.jpg" alt="新建项目"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/import_data.jpg" alt="导入数据"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/manage_project.jpg" alt="管理项目"></li></ul></li><li><p>对照表</p><ul><li>支持根据相关配置信息，生成查看、打印常模量表等。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/contract_sheet.jpg" alt="对照表"></li></ul></li><li><p>成绩</p><ul><li>支持标准分成绩生成、查询、数据导出等。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/query_score.jpg" alt="成绩查询"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/generate_score.jpg" alt="标准分生成"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/export_data.jpg" alt="成绩导出"></li></ul></li><li><p>设置</p><ul><li>支持相关参数配置。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/standard_mark/setting.jpg" alt="设置"></li></ul></li></ol>]]></content>
       
       
       
         <tags>
             
-            <tag> Qt </tag>
-            
             <tag> 跨平台 </tag>
             
-            <tag> Sqlite </tag>
+            <tag> C++、Python </tag>
             
             <tag> 标准正态分布 </tag>
             
             <tag> 标准分计算转换算法 </tag>
             
-            <tag> C++、Python </tag>
+            <tag> Qt </tag>
+            
+            <tag> Sqlite </tag>
             
         </tags>
       
@@ -136,11 +136,11 @@
       
         <tags>
             
-            <tag> Qt </tag>
+            <tag> 进程通信 </tag>
             
             <tag> C++、Python </tag>
             
-            <tag> 进程通信 </tag>
+            <tag> Qt </tag>
             
             <tag> OpenCV图像处理 </tag>
             
@@ -215,19 +215,19 @@
       <link href="/2020/05/02/ji-yu-qt-de-kua-ping-tai-tian-qi-ruan-jian/"/>
       <url>/2020/05/02/ji-yu-qt-de-kua-ping-tai-tian-qi-ruan-jian/</url>
       
-        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/index.png" alt="3D主页索引图"></p><blockquote><p>为用户提供一款自动隐藏于桌面任务栏，并且含天气提醒、时间任务提醒等生活便捷功能的跨平台软件，同时提供简单的WEB后台广告管理平台，方便广告操作推送等。</p></blockquote><h5 id="客户端主要功能点介绍"><a href="#客户端主要功能点介绍" class="headerlink" title="客户端主要功能点介绍"></a>客户端主要功能点介绍</h5><ol><li><p>首页</p><ul><li>此应用软件隐藏于电脑桌面的右下角，当鼠标移动至右下角区域时，应用软件则会自动显示主窗口。主窗口包括显示时钟、日历、天气、小工具、更换皮肤外观以及设置等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/home.png" alt="主页"></li></ul></li><li><p>时钟</p><ul><li>点击首页主窗口的时钟区域，则会显示时钟功能的子窗口，子窗口包括世界时钟、秒表、倒计时等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/clock1.png" alt="时钟展示1"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/clock2.png" alt="时钟展示2"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/clock3.png" alt="时钟展示3"></li></ul></li><li><p>日历</p><ul><li>点击首页主窗口的日历区域，则会显示日历功能的子窗口，子窗口包括查看阳历、农历、二十四节气等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/calendar.png" alt="日历展示"></li></ul></li><li><p>天气</p><ul><li>点击首页主窗口的天气区域，则会显示天气功能的子窗口，子窗口包括查看今日天气、自定义城市天气、生活指数等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/weather1.png" alt="天气展示1"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/weather2.png" alt="天气展示2"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/weather3.png" alt="天气展示3"></li></ul></li><li><p>小工具</p><ul><li>您可点击工具箱可跳转至在线小工具链接。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/tools.png" alt="小工具"></li></ul></li><li><p>更改皮肤外观</p><ul><li>点击首页主窗口的更换外观按钮，则会显示更换软件皮肤外观的子窗口，子窗口提供多种皮肤图片以及颜色等。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/skin.png" alt="皮肤外观设置"></li></ul></li><li><p>设置</p><ul><li>在首页主窗口区域右击，即可看到设置菜单，设置菜单里可更新天气、设置开机自启、接收广告、检查更新以及退出应用软件等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/setting.png" alt="设置"></li></ul></li></ol><h5 id="服务端主要功能点介绍"><a href="#服务端主要功能点介绍" class="headerlink" title="服务端主要功能点介绍"></a>服务端主要功能点介绍</h5><p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_login.png" alt="登录"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_advertisement1.png" alt="添加广告推送"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_advertisement2.png" alt="编辑删除广告"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_advertisement3.png" alt="设置广告推送时间"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_statistic.png" alt="统计用户数量"></p><h5 id="跨平台天气软件下载链接："><a href="#跨平台天气软件下载链接：" class="headerlink" title="跨平台天气软件下载链接："></a>跨平台天气软件下载链接：</h5><ul><li>Windows版本（百度云分享链接密码: 9atq）<br><a href="https://pan.baidu.com/s/1o8uuj2q" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Linux版本<br><a href="ttp://pan.baidu.com/s/1eROwlcm"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Mac版本<br><a href="http://pan.baidu.com/s/1i53779r" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li></ul>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/index.jpg" alt="3D主页索引图"></p><blockquote><p>为用户提供一款自动隐藏于桌面任务栏，并且含天气提醒、时间任务提醒等生活便捷功能的跨平台软件，同时提供简单的WEB后台广告管理平台，方便广告操作推送等。</p></blockquote><h5 id="客户端主要功能点介绍"><a href="#客户端主要功能点介绍" class="headerlink" title="客户端主要功能点介绍"></a>客户端主要功能点介绍</h5><ol><li><p>首页</p><ul><li>此应用软件隐藏于电脑桌面的右下角，当鼠标移动至右下角区域时，应用软件则会自动显示主窗口。主窗口包括显示时钟、日历、天气、小工具、更换皮肤外观以及设置等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/home.jpg" alt="主页"></li></ul></li><li><p>时钟</p><ul><li>点击首页主窗口的时钟区域，则会显示时钟功能的子窗口，子窗口包括世界时钟、秒表、倒计时等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/clock1.jpg" alt="时钟展示1"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/clock2.jpg" alt="时钟展示2"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/clock3.jpg" alt="时钟展示3"></li></ul></li><li><p>日历</p><ul><li>点击首页主窗口的日历区域，则会显示日历功能的子窗口，子窗口包括查看阳历、农历、二十四节气等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/calendar.jpg" alt="日历展示"></li></ul></li><li><p>天气</p><ul><li>点击首页主窗口的天气区域，则会显示天气功能的子窗口，子窗口包括查看今日天气、自定义城市天气、生活指数等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/weather1.jpg" alt="天气展示1"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/weather2.jpg" alt="天气展示2"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/weather3.jpg" alt="天气展示3"></li></ul></li><li><p>小工具</p><ul><li>您可点击工具箱可跳转至在线小工具链接。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/tools.jpg" alt="小工具"></li></ul></li><li><p>更改皮肤外观</p><ul><li>点击首页主窗口的更换外观按钮，则会显示更换软件皮肤外观的子窗口，子窗口提供多种皮肤图片以及颜色等。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/skin.jpg" alt="皮肤外观设置"></li></ul></li><li><p>设置</p><ul><li>在首页主窗口区域右击，即可看到设置菜单，设置菜单里可更新天气、设置开机自启、接收广告、检查更新以及退出应用软件等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/setting.jpg" alt="设置"></li></ul></li></ol><h5 id="服务端主要功能点介绍"><a href="#服务端主要功能点介绍" class="headerlink" title="服务端主要功能点介绍"></a>服务端主要功能点介绍</h5><p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_login.jpg" alt="登录"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_advertisement1.jpg" alt="添加广告推送"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_advertisement2.jpg" alt="编辑删除广告"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_advertisement3.jpg" alt="设置广告推送时间"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/weather_soft/manager_statistic.jpg" alt="统计用户数量"></p><h5 id="跨平台天气软件下载链接："><a href="#跨平台天气软件下载链接：" class="headerlink" title="跨平台天气软件下载链接："></a>跨平台天气软件下载链接：</h5><ul><li>Windows版本（百度云分享链接密码: 9atq）<br><a href="https://pan.baidu.com/s/1o8uuj2q" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Linux版本<br><a href="ttp://pan.baidu.com/s/1eROwlcm"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Mac版本<br><a href="http://pan.baidu.com/s/1i53779r" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li></ul>]]></content>
       
       
       
         <tags>
             
-            <tag> Qt </tag>
-            
             <tag> 跨平台 </tag>
             
-            <tag> DLL注入 </tag>
+            <tag> Qt </tag>
             
             <tag> Sqlite </tag>
+            
+            <tag> DLL注入 </tag>
             
             <tag> C++、PHP </tag>
             
@@ -248,13 +248,13 @@
       
         <tags>
             
-            <tag> Qt </tag>
-            
             <tag> 跨平台 </tag>
+            
+            <tag> Linux/Windows核心编程 </tag>
             
             <tag> C++、Python </tag>
             
-            <tag> Linux/Windows核心编程 </tag>
+            <tag> Qt </tag>
             
             <tag> 操作系统事件监控 </tag>
             
