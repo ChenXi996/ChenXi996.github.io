@@ -107,15 +107,15 @@
       
         <tags>
             
-            <tag> 标准正态分布 </tag>
-            
-            <tag> 标准分计算转换算法 </tag>
+            <tag> Qt </tag>
             
             <tag> 跨平台 </tag>
             
-            <tag> Qt </tag>
-            
             <tag> Sqlite </tag>
+            
+            <tag> 标准正态分布 </tag>
+            
+            <tag> 标准分计算转换算法 </tag>
             
             <tag> C++、Python </tag>
             
@@ -221,13 +221,13 @@
       
         <tags>
             
-            <tag> 跨平台 </tag>
-            
             <tag> Qt </tag>
             
-            <tag> Sqlite </tag>
+            <tag> 跨平台 </tag>
             
             <tag> DLL注入 </tag>
+            
+            <tag> Sqlite </tag>
             
             <tag> C++、PHP </tag>
             
@@ -248,9 +248,9 @@
       
         <tags>
             
-            <tag> 跨平台 </tag>
-            
             <tag> Qt </tag>
+            
+            <tag> 跨平台 </tag>
             
             <tag> C++、Python </tag>
             
