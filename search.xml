@@ -16,9 +16,9 @@
             
             <tag> C++、Python </tag>
             
-            <tag> OpenCV </tag>
-            
             <tag> 图像处理 </tag>
+            
+            <tag> OpenCV </tag>
             
             <tag> 模式识别 </tag>
             
@@ -27,35 +27,6 @@
             <tag> SDK </tag>
             
             <tag> 机器学习 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>信息技术评测引擎服务SDK</title>
-      <link href="/2020/05/09/xin-xi-ji-zhu-ping-ce-yin-qing-fu-wu-sdk/"/>
-      <url>/2020/05/09/xin-xi-ji-zhu-ping-ce-yin-qing-fu-wu-sdk/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>博主正在加班加点编写中…</p></blockquote>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 轻量级虚拟机实现 </tag>
-            
-            <tag> COM组件 </tag>
-            
-            <tag> 跨平台 </tag>
-            
-            <tag> Linux/Windows核心编程 </tag>
-            
-            <tag> 进程通信 </tag>
-            
-            <tag> C++、Python </tag>
             
         </tags>
       
@@ -74,9 +45,9 @@
       
         <tags>
             
-            <tag> C++、Python </tag>
-            
             <tag> Qt </tag>
+            
+            <tag> C++、Python </tag>
             
             <tag> 图像处理 </tag>
             
@@ -97,6 +68,35 @@
     
     
     <entry>
+      <title>信息技术评测引擎服务SDK</title>
+      <link href="/2020/05/09/xin-xi-ji-zhu-ping-ce-yin-qing-fu-wu-sdk/"/>
+      <url>/2020/05/09/xin-xi-ji-zhu-ping-ce-yin-qing-fu-wu-sdk/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>博主正在加班加点编写中…</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 跨平台 </tag>
+            
+            <tag> C++、Python </tag>
+            
+            <tag> 轻量级虚拟机实现 </tag>
+            
+            <tag> COM组件 </tag>
+            
+            <tag> Linux/Windows核心编程 </tag>
+            
+            <tag> 进程通信 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>XX省高考综合改革招生录取配套系统建设项目</title>
       <link href="/2020/05/09/xx-sheng-gao-kao-zong-he-gai-ge-zhao-sheng-lu-qu-pei-tao-xi-tong/"/>
       <url>/2020/05/09/xx-sheng-gao-kao-zong-he-gai-ge-zhao-sheng-lu-qu-pei-tao-xi-tong/</url>
@@ -107,17 +107,17 @@
       
         <tags>
             
-            <tag> 跨平台 </tag>
-            
-            <tag> C++、Python </tag>
-            
             <tag> 标准正态分布 </tag>
             
             <tag> 标准分计算转换算法 </tag>
             
+            <tag> 跨平台 </tag>
+            
             <tag> Qt </tag>
             
             <tag> Sqlite </tag>
+            
+            <tag> C++、Python </tag>
             
         </tags>
       
@@ -136,11 +136,11 @@
       
         <tags>
             
-            <tag> 进程通信 </tag>
+            <tag> Qt </tag>
             
             <tag> C++、Python </tag>
             
-            <tag> Qt </tag>
+            <tag> 进程通信 </tag>
             
             <tag> OpenCV图像处理 </tag>
             
@@ -250,11 +250,11 @@
             
             <tag> 跨平台 </tag>
             
-            <tag> Linux/Windows核心编程 </tag>
+            <tag> Qt </tag>
             
             <tag> C++、Python </tag>
             
-            <tag> Qt </tag>
+            <tag> Linux/Windows核心编程 </tag>
             
             <tag> 操作系统事件监控 </tag>
             
