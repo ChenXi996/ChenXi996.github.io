@@ -16,13 +16,13 @@
             
             <tag> C++、Python </tag>
             
-            <tag> OpenCV </tag>
-            
             <tag> 图像处理 </tag>
             
             <tag> 模式识别 </tag>
             
             <tag> 算法 </tag>
+            
+            <tag> OpenCV </tag>
             
             <tag> SDK </tag>
             
@@ -130,7 +130,7 @@
       <link href="/2020/05/09/li-shi-zhong-duan-she-bei-shen-fen-ren-zheng-xi-tong/"/>
       <url>/2020/05/09/li-shi-zhong-duan-she-bei-shen-fen-ren-zheng-xi-tong/</url>
       
-        <content type="html"><![CDATA[<p><img src="https://www.baidu.com" alt="3D主页图"></p><blockquote><p>旨在通过人脸识别、身份证识别以及指纹识别等技术，为用户提供身份鉴别服务。</p></blockquote><h5 id="主要功能点介绍"><a href="#主要功能点介绍" class="headerlink" title="主要功能点介绍"></a>主要功能点介绍</h5><ol><li><p>人脸识别</p><ul><li>依托讯飞研究院的AI核心能力，基于人脸识别引擎SDK，实现人脸实时检测识别认证功能。<br>​<img src="https://www.baidu.com" alt="人脸、指纹识别图"></li></ul></li><li><p>身份证、指纹信息识别</p><ul><li>基于亚略特指纹认证SDK，实现身份证信息采集、指纹识别等功能。<br>​<img src="https://www.baidu.com" alt="身份证、指纹信息识别图"></li></ul></li><li><p>认证数据实时获取</p><ul><li>基于多线程编程，实时获取摄像头图像、身份证信息、指纹信息，便于用户身份认证。<br>​<img src="https://www.baidu.com" alt="数据实时获取图"></li></ul></li><li><p>多模式灵活组合认证</p><ul><li>支持人脸、指纹、身份证信息等任意认证模式的灵活组合，人脸、身份证、指纹等识别子流程顺序随意更改，对用户身份进行认证，满足多种业务应用场景。<br><img src="https://www.baidu.com" alt="多模式灵活组合图"></li></ul></li></ol>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/authentication/index.jpg" alt="立式终端设备展厅"></p><blockquote><p>旨在通过人脸识别、身份证识别以及指纹识别等技术，为用户提供身份鉴别服务。</p></blockquote><h5 id="主要功能点介绍"><a href="#主要功能点介绍" class="headerlink" title="主要功能点介绍"></a>主要功能点介绍</h5><p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/authentication/home.jpg" alt=""></p><ol><li><p>人脸识别</p><ul><li>依托讯飞研究院的AI核心能力，基于人脸识别引擎SDK，实现人脸实时检测识别认证功能。<br>​<img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/authentication/main.jpg" alt="人脸、指纹识别图"></li></ul></li><li><p>身份证、指纹信息识别</p><ul><li>基于亚略特指纹认证SDK，实现身份证信息采集、指纹识别等功能。<br>​<img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/authentication/recognize.jpg" alt="身份证、指纹信息识别图"></li></ul></li><li><p>认证数据实时获取</p><ul><li>基于多线程编程，实时获取摄像头图像、身份证信息、指纹信息，便于用户身份认证。<br>​<img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/authentication/collect1.jpg" alt="数据采集"><br>​<img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/authentication/collect2.jpg" alt="相关硬件"></li></ul></li><li><p>多模式灵活组合认证</p><ul><li>支持人脸、指纹、身份证信息等任意认证模式的灵活组合，人脸、身份证、指纹等识别子流程顺序随意更改，对用户身份进行认证，满足多种业务应用场景。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/authentication/compare.jpg" alt="多模式灵活组合图"></li></ul></li></ol>]]></content>
       
       
       
@@ -194,6 +194,8 @@
             
             <tag> C++、Python </tag>
             
+            <tag> OpenCV </tag>
+            
             <tag> Raspberry Pi </tag>
             
             <tag> 嵌入式编程 </tag>
@@ -201,8 +203,6 @@
             <tag> 智能硬件 </tag>
             
             <tag> 智能家居 </tag>
-            
-            <tag> OpenCV </tag>
             
         </tags>
       
