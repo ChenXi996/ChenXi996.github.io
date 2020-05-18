@@ -45,17 +45,17 @@
       
         <tags>
             
+            <tag> 跨平台 </tag>
+            
+            <tag> C++、Python </tag>
+            
             <tag> 轻量级虚拟机实现 </tag>
             
             <tag> COM组件 </tag>
             
-            <tag> 跨平台 </tag>
-            
             <tag> Linux/Windows核心编程 </tag>
             
             <tag> 进程通信 </tag>
-            
-            <tag> C++、Python </tag>
             
         </tags>
       
@@ -68,15 +68,15 @@
       <link href="/2020/05/09/sao-miao-shu-ju-zhi-neng-cai-ji-xi-tong/"/>
       <url>/2020/05/09/sao-miao-shu-ju-zhi-neng-cai-ji-xi-tong/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>基于Twain协议，对题卡图片进行扫描，电子化，并识别相关客观题答案等信息，便于评分；同时提供扫描客户端、管理端对数据进行处理，保证扫描数据采集准确无误。</p></blockquote><p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/scan_system/scan_client.png" alt="扫描客户端"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/scan_system/scan_management.png" alt="扫描管理端"></p><h5 id="扫描客户端主要功能点介绍"><a href="#扫描客户端主要功能点介绍" class="headerlink" title="扫描客户端主要功能点介绍"></a>扫描客户端主要功能点介绍</h5><ol><li><p>调用扫描仪</p><ul><li>可调用扫描仪对答题卡进行扫描、信息处理化成相应的图片等数据。</li></ul></li><li><p>OMR、OCR、智能质检</p><ul><li>可识别处理扫描的题卡图片，对其进行OMR、OCR、智能质检等图像识别处理操作。</li></ul></li><li><p>扫描日志查询、异常题卡处理等</p><ul><li>可对扫描过程中的操作轨迹进行查询，以及处理扫描异常的题卡图片。</li></ul></li><li><p>裁切、上传引擎</p><ul><li>满足大批量图片数据裁切、上传处理等。</li></ul></li></ol><h5 id="扫描管理端主要功能点介绍"><a href="#扫描管理端主要功能点介绍" class="headerlink" title="扫描管理端主要功能点介绍"></a>扫描管理端主要功能点介绍</h5><ol><li><p>模板制作</p><ul><li>可对答题卡的扫描模板进行制作、编辑等，并且可设置调整识别算法的参数，灵活适应多种题卡。</li></ul></li><li><p>进度查询</p><ul><li>可对扫描进度进行查询，以折线图、柱形图、曲线图等形式直观展示整体扫描进度，便于对进度进行实时监控。</li></ul></li><li><p>识别、裁切</p><ul><li>可对扫描图片进行二次识别、裁切，确保数据准确无误。</li></ul></li><li><p>扫描监控</p><ul><li>可对扫描途中的扫描图片进行实时查看监控，避免扫描出现污渍、折叠等图像噪声比较严重的图片出现，影响正常评卷。</li></ul></li><li><p>题卡审核</p><ul><li>对人工干预及修改的题卡进行二次审核，提高数据准确性。</li></ul></li><li><p>识别校验</p><ul><li>人工复核缺考、客观题、选作题等识别结果，方便查看结果，避免出现识别错误等严重结果。</li></ul></li></ol>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>基于Twain协议，对题卡图片进行扫描，电子化，并识别相关客观题答案等信息，便于评分；同时提供扫描客户端、管理端对数据进行处理，保证扫描数据采集准确无误。</p></blockquote><p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/scan_system/scan_client.jpg" alt="扫描客户端"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io/imgs/scan_system/scan_management.jpg" alt="扫描管理端"></p><h5 id="扫描客户端主要功能点介绍"><a href="#扫描客户端主要功能点介绍" class="headerlink" title="扫描客户端主要功能点介绍"></a>扫描客户端主要功能点介绍</h5><ol><li><p>调用扫描仪</p><ul><li>可调用扫描仪对答题卡进行扫描、信息处理化成相应的图片等数据。</li></ul></li><li><p>OMR、OCR、智能质检</p><ul><li>可识别处理扫描的题卡图片，对其进行OMR、OCR、智能质检等图像识别处理操作。</li></ul></li><li><p>扫描日志查询、异常题卡处理等</p><ul><li>可对扫描过程中的操作轨迹进行查询，以及处理扫描异常的题卡图片。</li></ul></li><li><p>裁切、上传引擎</p><ul><li>满足大批量图片数据裁切、上传处理等。</li></ul></li></ol><h5 id="扫描管理端主要功能点介绍"><a href="#扫描管理端主要功能点介绍" class="headerlink" title="扫描管理端主要功能点介绍"></a>扫描管理端主要功能点介绍</h5><ol><li><p>模板制作</p><ul><li>可对答题卡的扫描模板进行制作、编辑等，并且可设置调整识别算法的参数，灵活适应多种题卡。</li></ul></li><li><p>进度查询</p><ul><li>可对扫描进度进行查询，以折线图、柱形图、曲线图等形式直观展示整体扫描进度，便于对进度进行实时监控。</li></ul></li><li><p>识别、裁切</p><ul><li>可对扫描图片进行二次识别、裁切，确保数据准确无误。</li></ul></li><li><p>扫描监控</p><ul><li>可对扫描途中的扫描图片进行实时查看监控，避免扫描出现污渍、折叠等图像噪声比较严重的图片出现，影响正常评卷。</li></ul></li><li><p>题卡审核</p><ul><li>对人工干预及修改的题卡进行二次审核，提高数据准确性。</li></ul></li><li><p>识别校验</p><ul><li>人工复核缺考、客观题、选作题等识别结果，方便查看结果，避免出现识别错误等严重结果。</li></ul></li></ol>]]></content>
       
       
       
         <tags>
             
-            <tag> C++、Python </tag>
-            
             <tag> Qt </tag>
+            
+            <tag> C++、Python </tag>
             
             <tag> 图像处理 </tag>
             
@@ -107,17 +107,17 @@
       
         <tags>
             
-            <tag> 跨平台 </tag>
-            
-            <tag> C++、Python </tag>
-            
             <tag> 标准正态分布 </tag>
             
             <tag> 标准分计算转换算法 </tag>
             
+            <tag> 跨平台 </tag>
+            
             <tag> Qt </tag>
             
             <tag> Sqlite </tag>
+            
+            <tag> C++、Python </tag>
             
         </tags>
       
@@ -136,11 +136,11 @@
       
         <tags>
             
-            <tag> 进程通信 </tag>
+            <tag> Qt </tag>
             
             <tag> C++、Python </tag>
             
-            <tag> Qt </tag>
+            <tag> 进程通信 </tag>
             
             <tag> OpenCV图像处理 </tag>
             
@@ -250,11 +250,11 @@
             
             <tag> 跨平台 </tag>
             
-            <tag> Linux/Windows核心编程 </tag>
+            <tag> Qt </tag>
             
             <tag> C++、Python </tag>
             
-            <tag> Qt </tag>
+            <tag> Linux/Windows核心编程 </tag>
             
             <tag> 操作系统事件监控 </tag>
             
