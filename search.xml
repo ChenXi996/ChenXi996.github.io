@@ -35,6 +35,35 @@
     
     
     <entry>
+      <title>信息技术评测引擎服务SDK</title>
+      <link href="/2020/05/09/xin-xi-ji-zhu-ping-ce-yin-qing-fu-wu-sdk/"/>
+      <url>/2020/05/09/xin-xi-ji-zhu-ping-ce-yin-qing-fu-wu-sdk/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>博主正在加班加点编写中…</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 跨平台 </tag>
+            
+            <tag> C++、Python </tag>
+            
+            <tag> 轻量级虚拟机实现 </tag>
+            
+            <tag> COM组件 </tag>
+            
+            <tag> Linux/Windows核心编程 </tag>
+            
+            <tag> 进程通信 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>扫描数据智能采集系统</title>
       <link href="/2020/05/09/sao-miao-shu-ju-zhi-neng-cai-ji-xi-tong/"/>
       <url>/2020/05/09/sao-miao-shu-ju-zhi-neng-cai-ji-xi-tong/</url>
@@ -60,35 +89,6 @@
             <tag> 插件式架构 </tag>
             
             <tag> 插件管理器 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>信息技术评测引擎服务SDK</title>
-      <link href="/2020/05/09/xin-xi-ji-zhu-ping-ce-yin-qing-fu-wu-sdk/"/>
-      <url>/2020/05/09/xin-xi-ji-zhu-ping-ce-yin-qing-fu-wu-sdk/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>博主正在加班加点编写中…</p></blockquote>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 跨平台 </tag>
-            
-            <tag> C++、Python </tag>
-            
-            <tag> 轻量级虚拟机实现 </tag>
-            
-            <tag> COM组件 </tag>
-            
-            <tag> Linux/Windows核心编程 </tag>
-            
-            <tag> 进程通信 </tag>
             
         </tags>
       
