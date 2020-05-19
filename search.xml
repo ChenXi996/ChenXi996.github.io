@@ -14,11 +14,11 @@
       
         <tags>
             
+            <tag> OpenCV </tag>
+            
             <tag> C++、Python </tag>
             
             <tag> 图像处理 </tag>
-            
-            <tag> OpenCV </tag>
             
             <tag> 模式识别 </tag>
             
@@ -45,6 +45,8 @@
       
         <tags>
             
+            <tag> C++、Python </tag>
+            
             <tag> 轻量级虚拟机实现 </tag>
             
             <tag> COM组件 </tag>
@@ -54,8 +56,6 @@
             <tag> Linux/Windows核心编程 </tag>
             
             <tag> 进程通信 </tag>
-            
-            <tag> C++、Python </tag>
             
         </tags>
       
@@ -107,17 +107,17 @@
       
         <tags>
             
-            <tag> 跨平台 </tag>
-            
             <tag> C++、Python </tag>
             
-            <tag> Qt </tag>
-            
-            <tag> Sqlite </tag>
+            <tag> 跨平台 </tag>
             
             <tag> 标准正态分布 </tag>
             
             <tag> 标准分计算转换算法 </tag>
+            
+            <tag> Qt </tag>
+            
+            <tag> Sqlite </tag>
             
         </tags>
       
@@ -136,9 +136,9 @@
       
         <tags>
             
-            <tag> 进程通信 </tag>
-            
             <tag> C++、Python </tag>
+            
+            <tag> 进程通信 </tag>
             
             <tag> Qt </tag>
             
@@ -192,8 +192,6 @@
       
         <tags>
             
-            <tag> C++、Python </tag>
-            
             <tag> Raspberry Pi </tag>
             
             <tag> 嵌入式编程 </tag>
@@ -203,6 +201,8 @@
             <tag> 智能家居 </tag>
             
             <tag> OpenCV </tag>
+            
+            <tag> C++、Python </tag>
             
         </tags>
       
@@ -225,9 +225,9 @@
             
             <tag> Qt </tag>
             
-            <tag> DLL注入 </tag>
-            
             <tag> Sqlite </tag>
+            
+            <tag> DLL注入 </tag>
             
             <tag> C++、PHP </tag>
             
@@ -248,11 +248,11 @@
       
         <tags>
             
+            <tag> C++、Python </tag>
+            
             <tag> 跨平台 </tag>
             
             <tag> Linux/Windows核心编程 </tag>
-            
-            <tag> C++、Python </tag>
             
             <tag> Qt </tag>
             
