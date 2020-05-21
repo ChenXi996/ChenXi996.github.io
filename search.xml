@@ -16,9 +16,9 @@
             
             <tag> C++、Python </tag>
             
-            <tag> OpenCV </tag>
-            
             <tag> 图像处理 </tag>
+            
+            <tag> OpenCV </tag>
             
             <tag> 模式识别 </tag>
             
@@ -111,13 +111,13 @@
             
             <tag> C++、Python </tag>
             
-            <tag> Qt </tag>
-            
-            <tag> Sqlite </tag>
-            
             <tag> 标准正态分布 </tag>
             
             <tag> 标准分计算转换算法 </tag>
+            
+            <tag> Qt </tag>
+            
+            <tag> Sqlite </tag>
             
         </tags>
       
@@ -225,9 +225,9 @@
             
             <tag> Qt </tag>
             
-            <tag> DLL注入 </tag>
-            
             <tag> Sqlite </tag>
+            
+            <tag> DLL注入 </tag>
             
             <tag> C++、PHP </tag>
             
