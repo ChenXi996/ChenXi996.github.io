@@ -35,35 +35,6 @@
     
     
     <entry>
-      <title>信息技术评测引擎服务SDK</title>
-      <link href="/2020/05/09/xin-xi-ji-zhu-ping-ce-yin-qing-fu-wu-sdk/"/>
-      <url>/2020/05/09/xin-xi-ji-zhu-ping-ce-yin-qing-fu-wu-sdk/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>博主正在加班加点编写中…</p></blockquote>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 跨平台 </tag>
-            
-            <tag> 轻量级虚拟机实现 </tag>
-            
-            <tag> COM组件 </tag>
-            
-            <tag> Linux/Windows核心编程 </tag>
-            
-            <tag> 进程通信 </tag>
-            
-            <tag> C++、Python </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>扫描数据智能采集系统</title>
       <link href="/2020/05/09/sao-miao-shu-ju-zhi-neng-cai-ji-xi-tong/"/>
       <url>/2020/05/09/sao-miao-shu-ju-zhi-neng-cai-ji-xi-tong/</url>
@@ -97,6 +68,35 @@
     
     
     <entry>
+      <title>信息技术评测引擎服务SDK</title>
+      <link href="/2020/05/09/xin-xi-ji-zhu-ping-ce-yin-qing-fu-wu-sdk/"/>
+      <url>/2020/05/09/xin-xi-ji-zhu-ping-ce-yin-qing-fu-wu-sdk/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>博主正在加班加点编写中…</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 跨平台 </tag>
+            
+            <tag> C++、Python </tag>
+            
+            <tag> 进程通信 </tag>
+            
+            <tag> 轻量级虚拟机实现 </tag>
+            
+            <tag> COM组件 </tag>
+            
+            <tag> Linux/Windows核心编程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>XX省高考综合改革招生录取配套系统建设项目</title>
       <link href="/2020/05/09/xx-sheng-gao-kao-zong-he-gai-ge-zhao-sheng-lu-qu-pei-tao-xi-tong/"/>
       <url>/2020/05/09/xx-sheng-gao-kao-zong-he-gai-ge-zhao-sheng-lu-qu-pei-tao-xi-tong/</url>
@@ -107,17 +107,17 @@
       
         <tags>
             
-            <tag> Qt </tag>
+            <tag> 标准正态分布 </tag>
+            
+            <tag> 标准分计算转换算法 </tag>
             
             <tag> 跨平台 </tag>
+            
+            <tag> Qt </tag>
             
             <tag> Sqlite </tag>
             
             <tag> C++、Python </tag>
-            
-            <tag> 标准正态分布 </tag>
-            
-            <tag> 标准分计算转换算法 </tag>
             
         </tags>
       
@@ -138,8 +138,6 @@
             
             <tag> Qt </tag>
             
-            <tag> 进程通信 </tag>
-            
             <tag> C++、Python </tag>
             
             <tag> OpenCV图像处理 </tag>
@@ -147,6 +145,8 @@
             <tag> 讯飞研究院人脸识别引擎SDK </tag>
             
             <tag> 多线程 </tag>
+            
+            <tag> 进程通信 </tag>
             
         </tags>
       
@@ -215,19 +215,19 @@
       <link href="/2020/05/02/ji-yu-qt-de-kua-ping-tai-tian-qi-ruan-jian/"/>
       <url>/2020/05/02/ji-yu-qt-de-kua-ping-tai-tian-qi-ruan-jian/</url>
       
-        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/05/21/YbvD3R.jpg" alt="3D主页索引图"></p><blockquote><p>为用户提供一款自动隐藏于桌面任务栏，并且含天气提醒、时间任务提醒等生活便捷功能的跨平台软件，同时提供简单的WEB后台广告管理平台，方便广告操作推送等。</p></blockquote><h5 id="客户端主要功能点介绍"><a href="#客户端主要功能点介绍" class="headerlink" title="客户端主要功能点介绍"></a>客户端主要功能点介绍</h5><ol><li><p>首页</p><ul><li>此应用软件隐藏于电脑桌面的右下角，当鼠标移动至右下角区域时，应用软件则会自动显示主窗口。主窗口包括显示时钟、日历、天气、小工具、更换皮肤外观以及设置等功能。<br><img src="https://s1.ax1x.com/2020/05/21/YbvBC9.jpg" alt="主页"></li></ul></li><li><p>时钟</p><ul><li>点击首页主窗口的时钟区域，则会显示时钟功能的子窗口，子窗口包括世界时钟、秒表、倒计时等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/clock1.jpg" alt="时钟展示1"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/clock2.jpg" alt="时钟展示2"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/clock3.jpg" alt="时钟展示3"></li></ul></li><li><p>日历</p><ul><li>点击首页主窗口的日历区域，则会显示日历功能的子窗口，子窗口包括查看阳历、农历、二十四节气等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/calendar.jpg" alt="日历展示"></li></ul></li><li><p>天气</p><ul><li>点击首页主窗口的天气区域，则会显示天气功能的子窗口，子窗口包括查看今日天气、自定义城市天气、生活指数等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/weather1.jpg" alt="天气展示1"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/weather2.jpg" alt="天气展示2"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/weather3.jpg" alt="天气展示3"></li></ul></li><li><p>小工具</p><ul><li>您可点击工具箱可跳转至在线小工具链接。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/tools.jpg" alt="小工具"></li></ul></li><li><p>更改皮肤外观</p><ul><li>点击首页主窗口的更换外观按钮，则会显示更换软件皮肤外观的子窗口，子窗口提供多种皮肤图片以及颜色等。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/skin.jpg" alt="皮肤外观设置"></li></ul></li><li><p>设置</p><ul><li>在首页主窗口区域右击，即可看到设置菜单，设置菜单里可更新天气、设置开机自启、接收广告、检查更新以及退出应用软件等功能。<br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/setting.jpg" alt="设置"></li></ul></li></ol><h5 id="服务端主要功能点介绍"><a href="#服务端主要功能点介绍" class="headerlink" title="服务端主要功能点介绍"></a>服务端主要功能点介绍</h5><p><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/manager_login.jpg" alt="登录"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/manager_advertisement1.jpg" alt="添加广告推送"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/manager_advertisement2.jpg" alt="编辑删除广告"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/manager_advertisement3.jpg" alt="设置广告推送时间"><br><img src="https://cdn.jsdelivr.net/gh/ChenXi996/ChenXi996.github.io@latest/imgs/weather_soft/manager_statistic.jpg" alt="统计用户数量"></p><h5 id="跨平台天气软件下载链接："><a href="#跨平台天气软件下载链接：" class="headerlink" title="跨平台天气软件下载链接："></a>跨平台天气软件下载链接：</h5><ul><li>Windows版本（百度云分享链接密码: 9atq）<br><a href="https://pan.baidu.com/s/1o8uuj2q" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Linux版本<br><a href="ttp://pan.baidu.com/s/1eROwlcm"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Mac版本<br><a href="http://pan.baidu.com/s/1i53779r" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li></ul>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/05/21/YbvD3R.jpg" alt="3D主页索引图"></p><blockquote><p>为用户提供一款自动隐藏于桌面任务栏，并且含天气提醒、时间任务提醒等生活便捷功能的跨平台软件，同时提供简单的WEB后台广告管理平台，方便广告操作推送等。</p></blockquote><h5 id="客户端主要功能点介绍"><a href="#客户端主要功能点介绍" class="headerlink" title="客户端主要功能点介绍"></a>客户端主要功能点介绍</h5><ol><li><p>首页</p><ul><li>此应用软件隐藏于电脑桌面的右下角，当鼠标移动至右下角区域时，应用软件则会自动显示主窗口。主窗口包括显示时钟、日历、天气、小工具、更换皮肤外观以及设置等功能。<br><img src="https://s1.ax1x.com/2020/05/21/YbvBC9.jpg" alt="主页"></li></ul></li><li><p>时钟</p><ul><li>点击首页主窗口的时钟区域，则会显示时钟功能的子窗口，子窗口包括世界时钟、秒表、倒计时等功能。<br><img src="https://s1.ax1x.com/2020/05/21/YqAtkq.jpg" alt="时钟展示1"><br><img src="https://s1.ax1x.com/2020/05/21/YqAG0s.jpg" alt="时钟展示2"><br><img src="https://s1.ax1x.com/2020/05/21/YqAJ7n.jpg" alt="时钟展示3"></li></ul></li><li><p>日历</p><ul><li>点击首页主窗口的日历区域，则会显示日历功能的子窗口，子窗口包括查看阳历、农历、二十四节气等功能。<br><img src="https://s1.ax1x.com/2020/05/21/YqANt0.jpg" alt="日历展示"></li></ul></li><li><p>天气</p><ul><li>点击首页主窗口的天气区域，则会显示天气功能的子窗口，子窗口包括查看今日天气、自定义城市天气、生活指数等功能。<br><img src="https://s1.ax1x.com/2020/05/21/YqAsB9.jpg" alt="天气展示1"><br><img src="https://s1.ax1x.com/2020/05/21/YqAcA1.jpg" alt="天气展示2"><br><img src="https://s1.ax1x.com/2020/05/21/YqAgtx.jpg" alt="天气展示3"></li></ul></li><li><p>小工具</p><ul><li>您可点击工具箱可跳转至在线小工具链接。<br><img src="https://s1.ax1x.com/2020/05/21/YqAy7R.jpg" alt="小工具"></li></ul></li><li><p>更改皮肤外观</p><ul><li>点击首页主窗口的更换外观按钮，则会显示更换软件皮肤外观的子窗口，子窗口提供多种皮肤图片以及颜色等。<br><img src="https://s1.ax1x.com/2020/05/21/YqArnJ.jpg" alt="皮肤外观设置"></li></ul></li><li><p>设置</p><ul><li>在首页主窗口区域右击，即可看到设置菜单，设置菜单里可更新天气、设置开机自启、接收广告、检查更新以及退出应用软件等功能。<br><img src="https://s1.ax1x.com/2020/05/21/YqABX4.jpg" alt="设置"></li></ul></li></ol><h5 id="服务端主要功能点介绍"><a href="#服务端主要功能点介绍" class="headerlink" title="服务端主要功能点介绍"></a>服务端主要功能点介绍</h5><p><img src="https://s1.ax1x.com/2020/05/21/YqAw1U.jpg" alt="登录"><br><img src="https://s1.ax1x.com/2020/05/21/YqA8mj.jpg" alt="添加广告推送"><br><img src="https://s1.ax1x.com/2020/05/21/YqAUhV.jpg" alt="编辑删除广告"><br><img src="https://s1.ax1x.com/2020/05/21/YqAdpT.jpg" alt="设置广告推送时间"><br><img src="https://s1.ax1x.com/2020/05/21/YqA0cF.jpg" alt="统计用户数量"></p><h5 id="跨平台天气软件下载链接："><a href="#跨平台天气软件下载链接：" class="headerlink" title="跨平台天气软件下载链接："></a>跨平台天气软件下载链接：</h5><ul><li>Windows版本（百度云分享链接密码: 9atq）<br><a href="https://pan.baidu.com/s/1o8uuj2q" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Linux版本<br><a href="ttp://pan.baidu.com/s/1eROwlcm"><u><strong>[点击前往百度云分享链接]</u></strong></a></li><li>Mac版本<br><a href="http://pan.baidu.com/s/1i53779r" target="_blank" rel="noopener"><u><strong>[点击前往百度云分享链接]</u></strong></a></li></ul>]]></content>
       
       
       
         <tags>
             
-            <tag> Qt </tag>
-            
             <tag> 跨平台 </tag>
             
-            <tag> DLL注入 </tag>
+            <tag> Qt </tag>
             
             <tag> Sqlite </tag>
+            
+            <tag> DLL注入 </tag>
             
             <tag> C++、PHP </tag>
             
@@ -248,13 +248,13 @@
       
         <tags>
             
-            <tag> Qt </tag>
-            
             <tag> 跨平台 </tag>
             
-            <tag> Linux/Windows核心编程 </tag>
+            <tag> Qt </tag>
             
             <tag> C++、Python </tag>
+            
+            <tag> Linux/Windows核心编程 </tag>
             
             <tag> 操作系统事件监控 </tag>
             
