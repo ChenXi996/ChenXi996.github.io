@@ -111,13 +111,13 @@
             
             <tag> C++、Python </tag>
             
-            <tag> 标准正态分布 </tag>
-            
-            <tag> 标准分计算转换算法 </tag>
-            
             <tag> Qt </tag>
             
             <tag> Sqlite </tag>
+            
+            <tag> 标准正态分布 </tag>
+            
+            <tag> 标准分计算转换算法 </tag>
             
         </tags>
       
@@ -225,9 +225,9 @@
             
             <tag> Qt </tag>
             
-            <tag> Sqlite </tag>
-            
             <tag> DLL注入 </tag>
+            
+            <tag> Sqlite </tag>
             
             <tag> C++、PHP </tag>
             
